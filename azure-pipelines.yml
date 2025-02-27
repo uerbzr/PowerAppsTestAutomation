@@ -11,7 +11,7 @@ resources:
       name: uerbzr/PowerAppsTestAutomation
       ref: master
       # Name of the GitHub OAuth ADO Service Connection
-      endpoint: github_uerbzr
+      endpoint: https://github.com/uerbzr/PowerAppsTestAutomation
 
 parameters:
   - name: image
